@@ -64,7 +64,7 @@
             "bin-links": false
         },
         "branch-alias": {
-            "dev-master": "3.x-dev"
+            "dev-fix-dot-ranged-denormalizer": "3.x-dev"
         }
     },
     "config": {
