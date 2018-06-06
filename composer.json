@@ -64,7 +64,7 @@
             "bin-links": false
         },
         "branch-alias": {
-            "dev-fix-dot-ranged-denormalizer": "3.x-dev"
+            "dev-hyra-fork": "3.x-dev"
         }
     },
     "config": {
